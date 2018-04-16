@@ -1,0 +1,12 @@
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\bin\Debug\PDF_Adapter.exe.config
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\bin\Debug\PDF_Adapter.exe
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\bin\Debug\PDF_Adapter.pdb
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\bin\Debug\itextsharp.dll
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\bin\Debug\itextsharp.xml
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.csprojResolveAssemblyReference.cache
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.frmHome.resources
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.Properties.Resources.resources
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.csproj.GenerateResource.Cache
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.csproj.CoreCompileInputs.cache
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.exe
+D:\Документы\Code\PDF_Adapter\PDF_Adapter\obj\Debug\PDF_Adapter.pdb
